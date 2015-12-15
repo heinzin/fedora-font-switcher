@@ -25,6 +25,8 @@ Source မှ တဆင့် Install ပြုလုပ်ရန် အော�
 	$ sudo ffs z
 	$ sudo ffs u
 
+### Uninstall 
+	$ sudo make uninstall
 
 #### Install from RPM Package
 // TODO
@@ -58,7 +60,9 @@ Source မွ တဆင့္ Install ျပဳလုပ္ရန္ ေအာ�
 	$ sudo make install
 	$ sudo ffs z
 	$ sudo ffs u
-
+	
+### Uninstall 
+	$ sudo make uninstall
 
 #### Install from RPM Package
 // TODO
@@ -90,6 +94,8 @@ Use These Commands in Terminal to Install from Source
 	$ sudo ffs z
 	$ sudo ffs u
 
+### Uninstall 
+	$ sudo make uninstall
 
 #### Install from RPM Package
 // TODO
